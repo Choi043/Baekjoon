@@ -5,3 +5,6 @@ tasks.json
 
 ## C언어 컴파일 전용 파일 무시
 *.exe
+
+## settings.json
+settings.json
