@@ -1,4 +1,3 @@
-const { Console } = require("console");
 const fs = require("fs");
 const fileSync = process.platform === "linux" ? "/dev/stdin" : "example.txt";
 
